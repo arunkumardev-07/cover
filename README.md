@@ -109,8 +109,8 @@
 ```
  
  ## OUTPUT:
- 
-![Screenshot 2025-05-12 162628](https://github.com/user-attachments/assets/8f1a7254-48f4-404f-bf5e-acfc152ddfb0)
+ ![image](https://github.com/user-attachments/assets/0829ee51-2233-4d2e-820a-28d3290ed832)
+
 
 
  
